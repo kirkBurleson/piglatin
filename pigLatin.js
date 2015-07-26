@@ -34,5 +34,5 @@ function getPigLatin (word) {
 	return undefined;
 }
 
-console.log(getPigLatin("998"));
+console.log(getPigLatin("coffee"));
 
